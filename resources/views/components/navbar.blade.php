@@ -18,6 +18,7 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#skills">Skills</a>
                 </li>
+
             </ul>
         </div>
     </div>
